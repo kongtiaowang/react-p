@@ -1,0 +1,25 @@
+{
+  "name": "react-p",
+  "version": "1.0.0",
+  "description": "do a react project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kongtiaowang/react-p.git"
+  },
+  "keywords": [
+    "123"
+  ],
+  "author": "wangshen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kongtiaowang/react-p/issues"
+  },
+  "homepage": "https://github.com/kongtiaowang/react-p#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
